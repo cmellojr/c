@@ -6,5 +6,5 @@ int main(void) {
   int x=10;
   p = &x;
   y = *p; 
-  printf("%d\n", y); 
+  printf("Resultado: %d\n", y);
 }
